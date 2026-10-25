@@ -196,3 +196,8 @@ h2 { font-size: 19px; margin: 0 0 10px; }
 .args p { margin: 6px 0; font-size: 15px; }
 .srclink { font-size: 13px; }
 .lite-tag { font-size: 11px; font-weight: 800; letter-spacing: .08em; color: #fff; background: var(--accent); border-radius: 5px; padding: 2px 6px; direction: ltr; }
+.procon { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 14px; }
+.procon .side { border-radius: 12px; padding: 10px 12px; background: var(--bg); border: 1px solid var(--line); } /* same look for both sides */
+.procon b { font-size: 15px; }
+.procon p { margin: 4px 0 0; font-size: 15px; line-height: 1.5; }
+@media (max-width: 560px) { .procon { grid-template-columns: 1fr; } }
