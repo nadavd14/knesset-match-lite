@@ -1,7 +1,6 @@
 {
   "laws": [
     1042100,
-    1046468,
     2168881,
     2198907,
     2199298,
@@ -25,25 +24,13 @@
     2199480,
     2196356,
     2224618,
-    2195706,
-    2199293,
     2215077,
     2220910,
-    2197937,
     2201424,
-    2220949,
-    2199174,
-    2219438,
     1046237,
-    2229723,
     2203631,
-    2202588,
     2230039,
     2232189,
-    2239060,
-    2233991,
-    2236458,
-    2213395,
     2200328,
     2201126
   ],
@@ -62,10 +49,6 @@
             }
           ],
           "note": "שר התקשורת, מוביל החוק, אחרי אישורו"
-        },
-        "1046468": {
-          "stance": "none",
-          "sources": []
         },
         "2168881": {
           "stance": "for",
@@ -375,46 +358,6 @@
           "stance": "none",
           "sources": []
         },
-        "2195706": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_2069511.doc",
-              "quote": "זה צעד חיוני והכרחי בדרך לתקן את העוול שנעשה.",
-              "speaker": "יואב קיש",
-              "date": "2023-03-21",
-              "kind": "speech"
-            },
-            {
-              "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2195706",
-              "quote": "אמיר אוחנה רשום/ה כיוזם/ת הצעת החוק (פרפרזה)",
-              "speaker": "אמיר אוחנה",
-              "date": "2023-02",
-              "kind": "sponsor"
-            },
-            {
-              "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2195706",
-              "quote": "אופיר כץ רשום/ה כיוזם/ת הצעת החוק (פרפרזה)",
-              "speaker": "אופיר כץ",
-              "date": "2023-02",
-              "kind": "sponsor"
-            }
-          ],
-          "note": "נאום בדיון על החוק בקריאה שנייה-שלישית; אוחנה ואופיר כץ בין יוזמי ההצעה; תאריך הייזום משוער (מועד הדיון הראשון במליאה); תאריך הייזום משוער (מועד הדיון הראשון במליאה)"
-        },
-        "2199293": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_1545144.doc",
-              "quote": "אני כמובן מבקש מהכנסת להצביע בעד החוק ולאשר אותו בקריאה הראשונה.",
-              "speaker": "יריב לוין",
-              "date": "2023-01-09",
-              "kind": "speech"
-            }
-          ],
-          "note": "שר המשפטים הציג את הצעת החוק הממשלתית בקריאה ראשונה"
-        },
         "2215077": {
           "stance": "for",
           "sources": [
@@ -431,33 +374,6 @@
         "2220910": {
           "stance": "none",
           "sources": []
-        },
-        "2197937": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_1858799.doc",
-              "quote": "דווקא הצעת חוק טובה, בעיניי.",
-              "speaker": "אמיר אוחנה",
-              "date": "2023-02-22",
-              "kind": "speech"
-            },
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_1858799.doc",
-              "quote": "אני בטוח שאתם לא מכירים את החוק, ואין לי ספק שאם הייתם מכירים את החוק, הייתם תומכים בו.",
-              "speaker": "משה סעדה",
-              "date": "2023-02-22",
-              "kind": "speech"
-            },
-            {
-              "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2197937",
-              "quote": "משה סעדה רשום/ה כיוזם/ת הצעת החוק (פרפרזה)",
-              "speaker": "משה סעדה",
-              "date": "2023-02",
-              "kind": "sponsor"
-            }
-          ],
-          "note": "אוחנה, כיו\"ר הכנסת, בפתיחת הדיון בקריאה טרומית; סעדה יוזם החוק ונימק אותו בקריאה טרומית (תאריך הייזום משוער)"
         },
         "2201424": {
           "stance": "for",
@@ -486,27 +402,6 @@
           ],
           "note": "אופיר כץ יוזם ההצעה ויו\"ר הוועדה המיוחדת; קיש השיב בשם הממשלה בקריאה טרומית; תאריך הייזום משוער (מועד הדיון הראשון במליאה)"
         },
-        "2220949": {
-          "stance": "none",
-          "sources": []
-        },
-        "2199174": {
-          "stance": "none",
-          "sources": []
-        },
-        "2219438": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_4632772.doc",
-              "quote": "לכן אני מציע לכנסת לאשר את הצעת החוק",
-              "speaker": "יריב לוין",
-              "date": "2024-07-03",
-              "kind": "speech"
-            }
-          ],
-          "note": "בקריאה הטרומית (2024), כשההצעה הציעה בחירת נציב ברוב רחב בכנסת; הנוסח הסופי שונה"
-        },
         "1046237": {
           "stance": "for",
           "sources": [
@@ -520,15 +415,7 @@
           ],
           "note": "סעיף 114 בהסכם ליכוד–יהדות התורה (תאריך משוער, דצמבר 2022)"
         },
-        "2229723": {
-          "stance": "none",
-          "sources": []
-        },
         "2203631": {
-          "stance": "none",
-          "sources": []
-        },
-        "2202588": {
           "stance": "none",
           "sources": []
         },
@@ -539,56 +426,6 @@
         "2232189": {
           "stance": "none",
           "sources": []
-        },
-        "2239060": {
-          "stance": "against",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_12119813.doc",
-              "quote": "אנחנו לא צריכים חוק שיגדיר לנו על כל מדינה מהי מדינת אויב.",
-              "speaker": "שלמה קרעי",
-              "date": "2026-03-25",
-              "kind": "speech"
-            }
-          ],
-          "note": "השר קרעי השיב בשם הממשלה בדיון המוקדם; טען שהממשלה כבר פעלה נגד אל-ג'זירה"
-        },
-        "2233991": {
-          "stance": "none",
-          "sources": []
-        },
-        "2236458": {
-          "stance": "against",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_10632811.doc",
-              "quote": "וכשאתם באים ואומרים לי פה להלאים את המוסדות הלאומיים, זה פופוליזם זול.",
-              "speaker": "מכלוף (מיקי) זוהר",
-              "date": "2026-01-07",
-              "kind": "speech"
-            }
-          ],
-          "note": "השר זוהר השיב בשם הממשלה בדיון המוקדם"
-        },
-        "2213395": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2213395",
-              "quote": "בעז ביסמוט רשום/ה כיוזם/ת הצעת החוק (פרפרזה)",
-              "speaker": "בעז ביסמוט",
-              "date": "2024-11",
-              "kind": "sponsor"
-            },
-            {
-              "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2213395",
-              "quote": "דוד ביטן רשום/ה כיוזם/ת הצעת החוק (פרפרזה)",
-              "speaker": "דוד ביטן",
-              "date": "2024-11",
-              "kind": "sponsor"
-            }
-          ],
-          "note": "ביסמוט וביטן בין יוזמי ההצעה; תאריך הייזום משוער (מועד הדיון המוקדם, 27.11.2024)"
         },
         "2200328": {
           "stance": "none",
@@ -649,10 +486,6 @@
     "otzma": {
       "positions": {
         "1042100": {
-          "stance": "none",
-          "sources": []
-        },
-        "1046468": {
           "stance": "none",
           "sources": []
         },
@@ -875,37 +708,6 @@
           "stance": "none",
           "sources": []
         },
-        "2195706": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_2069511.doc",
-              "quote": "החוק הגזעני והמפלה שאסר על כניסת יהודים ליישובי צפון השומרון אכן יוסר היום בעזרת השם",
-              "speaker": "לימור סון הר מלך",
-              "date": "2023-03-21",
-              "kind": "speech"
-            },
-            {
-              "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2195706",
-              "quote": "לימור סון הר מלך רשום/ה כיוזם/ת הצעת החוק (פרפרזה)",
-              "speaker": "לימור סון הר מלך",
-              "date": "2023-02",
-              "kind": "sponsor"
-            },
-            {
-              "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2195706",
-              "quote": "טלי גוטליב רשום/ה כיוזם/ת הצעת החוק (פרפרזה)",
-              "speaker": "טלי גוטליב",
-              "date": "2023-02",
-              "kind": "sponsor"
-            }
-          ],
-          "note": "סון הר מלך יוזמת ההצעה הממוזגת; גוטליב יזמה כחברת הליכוד (2023); תאריך הייזום משוער (מועד הדיון הראשון במליאה); תאריך הייזום משוער (מועד הדיון הראשון במליאה)"
-        },
-        "2199293": {
-          "stance": "none",
-          "sources": []
-        },
         "2215077": {
           "stance": "for",
           "sources": [
@@ -923,26 +725,6 @@
           "stance": "none",
           "sources": []
         },
-        "2197937": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_1858799.doc",
-              "quote": "חבר הכנסת סעדה, תודה לך. עם ישראל חייב לך תודה.",
-              "speaker": "איתמר בן גביר",
-              "date": "2023-02-22",
-              "kind": "speech"
-            },
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_10824193.doc",
-              "quote": "אני רוצה להדגים לכם למה בזכות יואב סגלוביץ' אני בעד החוק של משה סעדה.",
-              "speaker": "טלי גוטליב",
-              "date": "2026-01-12",
-              "kind": "speech"
-            }
-          ],
-          "note": "בן גביר השיב בשם הממשלה בקריאה טרומית ותמך; גוטליב (אז בליכוד) בקריאה ראשונה"
-        },
         "2201424": {
           "stance": "for",
           "sources": [
@@ -956,56 +738,11 @@
           ],
           "note": "קרויזר בין יוזמי ההצעה (צוין גם בדברי אופיר כץ במליאה, 23.3.2023); תאריך הייזום משוער (מועד הדיון הראשון במליאה)"
         },
-        "2220949": {
-          "stance": "none",
-          "sources": []
-        },
-        "2199174": {
-          "stance": "none",
-          "sources": []
-        },
-        "2219438": {
-          "stance": "against",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_5802973.doc",
-              "quote": "הוועדה הזאת מסרסת את כל כוח הנציגים – נבחרי הציבור",
-              "speaker": "טלי גוטליב",
-              "date": "2025-03-04",
-              "kind": "speech"
-            },
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_4730471.doc",
-              "quote": "הצעת החוק הזאת גרועה לקואליציה, טובה לאופוזיציה.",
-              "speaker": "טלי גוטליב",
-              "date": "2024-07-25",
-              "kind": "speech"
-            }
-          ],
-          "note": "גוטליב (אז בליכוד) התנגדה לגופו של חוק אך הצהירה שתצביע בעדו במשמעת קואליציונית"
-        },
         "1046237": {
           "stance": "none",
           "sources": []
         },
-        "2229723": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_6079900.doc",
-              "quote": "ולכן, במסגרת זו מבקש השר מלכיאלי, מבקש משרד הדתות ומבקשת הממשלה לתקן את החוק",
-              "speaker": "עמיחי אליהו",
-              "date": "2025-03-24",
-              "kind": "speech"
-            }
-          ],
-          "note": "השר אליהו הציג את הצעת החוק הממשלתית בקריאה ראשונה ותקף את בג\"ץ על כרסום סמכות בתי הדין"
-        },
         "2203631": {
-          "stance": "none",
-          "sources": []
-        },
-        "2202588": {
           "stance": "none",
           "sources": []
         },
@@ -1016,23 +753,6 @@
         "2232189": {
           "stance": "none",
           "sources": []
-        },
-        "2239060": {
-          "stance": "none",
-          "sources": []
-        },
-        "2233991": {
-          "stance": "none",
-          "sources": []
-        },
-        "2236458": {
-          "stance": "none",
-          "sources": []
-        },
-        "2213395": {
-          "stance": "none",
-          "sources": [],
-          "note": "בתשובת הממשלה כינה השר עמיחי אליהו את החוק חשוב, אך התנגד בשלב זה מטעמים פרוצדורליים (לא נדון בוועדת השרים)"
         },
         "2200328": {
           "stance": "none",
@@ -1097,10 +817,6 @@
     "rzp": {
       "positions": {
         "1042100": {
-          "stance": "none",
-          "sources": []
-        },
-        "1046468": {
           "stance": "none",
           "sources": []
         },
@@ -1305,30 +1021,6 @@
           "stance": "none",
           "sources": []
         },
-        "2195706": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_2069511.doc",
-              "quote": "זה יום של תשובה גדולה. יום של תשובה מחטא ההתנתקות",
-              "speaker": "אורית סטרוק",
-              "date": "2023-03-21",
-              "kind": "speech"
-            },
-            {
-              "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2195706",
-              "quote": "שמחה רוטמן רשום/ה כיוזם/ת הצעת החוק (פרפרזה)",
-              "speaker": "שמחה רוטמן",
-              "date": "2023-02",
-              "kind": "sponsor"
-            }
-          ],
-          "note": "תאריך הייזום משוער (מועד הדיון הראשון במליאה)"
-        },
-        "2199293": {
-          "stance": "none",
-          "sources": []
-        },
         "2215077": {
           "stance": "mixed",
           "sources": [
@@ -1353,19 +1045,6 @@
           "stance": "none",
           "sources": []
         },
-        "2197937": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_13496008.doc",
-              "quote": "הצעת החוק הזו היא נדבך חשוב מאוד לתיקון מערכת המשפט.",
-              "speaker": "שמחה רוטמן",
-              "date": "2026-06-11",
-              "kind": "speech"
-            }
-          ],
-          "note": "רוטמן הציג את החוק בשם הוועדה המשותפת בקריאה שנייה-שלישית"
-        },
         "2201424": {
           "stance": "for",
           "sources": [
@@ -1379,75 +1058,9 @@
           ],
           "note": "תאריך הייזום משוער (מועד הדיון הראשון במליאה)"
         },
-        "2220949": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_6785853.doc",
-              "quote": "אני מבקש לתמוך בהצעת החוק, אדוני היושב-ראש.",
-              "speaker": "שמחה רוטמן",
-              "date": "2025-05-12",
-              "kind": "speech"
-            },
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_6785853.doc",
-              "quote": "הדבר הזה הוא סוג של קומבינה פוליטית שהגיע הזמן לעשות לה סוף.",
-              "speaker": "שמחה רוטמן",
-              "date": "2025-05-12",
-              "kind": "speech"
-            }
-          ],
-          "note": "רוטמן, יו\"ר ועדת החוקה, הציג את הצעת חוק הממשלה (תיקון מס' 14) בקריאה שנייה-שלישית יחד עם התיקון המקביל בחוק-יסוד: הממשלה; הציטוט השני נאמר בהצגת שתי ההצעות"
-        },
-        "2199174": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_1597764.doc",
-              "quote": "אני מבקש מחברי הכנסת לתמוך בה בקריאה הראשונה.",
-              "speaker": "שמחה רוטמן",
-              "date": "2023-01-16",
-              "kind": "speech"
-            }
-          ],
-          "note": "רוטמן הציג את הצעת ועדת החוקה (הרחבת החוק הנורבגי)"
-        },
-        "2219438": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_5802973.doc",
-              "quote": "מקורה של הצעת החוק הזאת בהצעת חוק פרטית שלי",
-              "speaker": "שמחה רוטמן",
-              "date": "2025-03-04",
-              "kind": "speech"
-            },
-            {
-              "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2219438",
-              "quote": "שמחה רוטמן רשום/ה כיוזם/ת הצעת החוק (פרפרזה)",
-              "speaker": "שמחה רוטמן",
-              "date": "2024-07",
-              "kind": "sponsor"
-            }
-          ],
-          "note": "תאריך הייזום משוער (מועד הדיון הראשון במליאה)"
-        },
         "1046237": {
           "stance": "none",
           "sources": []
-        },
-        "2229723": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_9836091.doc",
-              "quote": "שר האוצר בצלאל סמוטריץ', שהחוק הזה במידה רבה הוא בזכותו.",
-              "speaker": "שמחה רוטמן",
-              "date": "2025-11-17",
-              "kind": "speech"
-            }
-          ],
-          "note": "רוטמן הציג את החוק בקריאה שנייה-שלישית ושייך אותו ליוזמת סמוטריץ'"
         },
         "2203631": {
           "stance": "for",
@@ -1462,40 +1075,11 @@
           ],
           "note": "ב-2020 (אז בימינה) הגיש סמוטריץ' הצעה לביטול סעיף הנכד"
         },
-        "2202588": {
-          "stance": "none",
-          "sources": []
-        },
         "2230039": {
           "stance": "none",
           "sources": []
         },
         "2232189": {
-          "stance": "none",
-          "sources": []
-        },
-        "2239060": {
-          "stance": "none",
-          "sources": []
-        },
-        "2233991": {
-          "stance": "against",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_11360184.doc",
-              "quote": "בואו נכריז על עזה כישות אויב, ובמילים אחרות, בואו נוותר על עזה",
-              "speaker": "בצלאל סמוטריץ'",
-              "date": "2026-02-11",
-              "kind": "speech"
-            }
-          ],
-          "note": "השיב בשם הממשלה וכינה את ההצעה \"פופוליסטית והזויה\"; מתנגד מתוך תמיכה בשליטה והתיישבות בעזה"
-        },
-        "2236458": {
-          "stance": "none",
-          "sources": []
-        },
-        "2213395": {
           "stance": "none",
           "sources": []
         },
@@ -1720,10 +1304,6 @@
           "stance": "none",
           "sources": []
         },
-        "1046468": {
-          "stance": "none",
-          "sources": []
-        },
         "2168881": {
           "stance": "none",
           "sources": []
@@ -1791,15 +1371,6 @@
           "stance": "none",
           "sources": []
         },
-        "2195706": {
-          "stance": "none",
-          "sources": []
-        },
-        "2199293": {
-          "stance": "none",
-          "sources": [],
-          "note": "הערה בוויכוח, לא הבעת עמדה על החוק."
-        },
         "2215077": {
           "stance": "mixed",
           "sources": [
@@ -1833,34 +1404,9 @@
           ],
           "note": "הביקורת מתמקדת בהארכת השירות למשרתים בזמן שחרדים פטורים; לא נאמר במפורש איך תצביע הסיעה. הנאום נישא בישיבה הרצופה של 13–16.7.2026"
         },
-        "2197937": {
-          "stance": "none",
-          "sources": []
-        },
         "2201424": {
           "stance": "none",
           "sources": []
-        },
-        "2220949": {
-          "stance": "none",
-          "sources": []
-        },
-        "2199174": {
-          "stance": "none",
-          "sources": []
-        },
-        "2219438": {
-          "stance": "against",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_5802973.doc",
-              "quote": "מה זה הדבר הזה נציבות תלונות שופטים? זה חוקי הנקמה",
-              "speaker": "יוליה מלינובסקי",
-              "date": "2025-03",
-              "kind": "speech"
-            }
-          ],
-          "note": "הנאום נישא בישיבת 3–4 במרץ 2025"
         },
         "1046237": {
           "stance": "against",
@@ -1875,10 +1421,6 @@
           ],
           "note": "הנאום נישא בישיבה הרצופה של 13–16.7.2026"
         },
-        "2229723": {
-          "stance": "none",
-          "sources": []
-        },
         "2203631": {
           "stance": "against",
           "sources": [
@@ -1891,10 +1433,6 @@
             }
           ],
           "note": "סובה עלה לנאום נגד ההצעה בשם המתנגדים"
-        },
-        "2202588": {
-          "stance": "none",
-          "sources": []
         },
         "2230039": {
           "stance": "for",
@@ -1919,47 +1457,6 @@
         "2232189": {
           "stance": "none",
           "sources": []
-        },
-        "2239060": {
-          "stance": "none",
-          "sources": []
-        },
-        "2233991": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/law/25_lst_7790969.docx",
-              "quote": "יוזמים: חברי הכנסת יוליה מלינובסקי אביגדור ליברמן עודד פורר יבגני סובה שרון ניר חמד עמאר",
-              "speaker": "יוליה מלינובסקי, אביגדור ליברמן, עודד פורר, יבגני סובה, חמד עמאר",
-              "date": "2025-07",
-              "kind": "sponsor"
-            },
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_11360184.doc",
-              "quote": "ימין אמיתי לא יצביע נגד הצעת החוק הזה, כי עזה היא אזור עוין, ואסור להמשיך במסחר עם עזה",
-              "speaker": "יוליה מלינובסקי",
-              "date": "2026-02-11",
-              "kind": "speech"
-            }
-          ],
-          "note": "הצעת חוק של סיעת ישראל ביתנו; מועד ההגשה משוער"
-        },
-        "2236458": {
-          "stance": "none",
-          "sources": []
-        },
-        "2213395": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/law/25_lst_3949875.docx",
-              "quote": "יוזמים: חברי הכנסת רון כץ ... דוד ביטן מיכאל מרדכי ביטון דן אילוז בועז ביסמוט",
-              "speaker": "דן אילוז",
-              "date": "2024-01",
-              "kind": "sponsor"
-            }
-          ],
-          "note": "אילוז (מקום 10 ברשימה) היה אז חבר כנסת מטעם הליכוד; מועד ההגשה משוער"
         },
         "2200328": {
           "stance": "none",
@@ -2128,10 +1625,6 @@
           "stance": "none",
           "sources": []
         },
-        "1046468": {
-          "stance": "none",
-          "sources": []
-        },
         "2199298": {
           "stance": "against",
           "sources": [
@@ -2276,23 +1769,11 @@
           "sources": [],
           "note": "גולדקנופף: פדיון שבויים ערך עליון ויתמוך בכל עסקה שתובא לממשלה (כיכר השבת, 2024) - לא עמדה על החוק המחייב"
         },
-        "2195706": {
-          "stance": "none",
-          "sources": []
-        },
-        "2199293": {
-          "stance": "none",
-          "sources": []
-        },
         "2215077": {
           "stance": "none",
           "sources": []
         },
         "2220910": {
-          "stance": "none",
-          "sources": []
-        },
-        "2197937": {
           "stance": "none",
           "sources": []
         },
@@ -2308,18 +1789,6 @@
             }
           ],
           "note": "פינדרוס בין יוזמי ההצעה (פ/2560/25); תאריך ההגשה משוער"
-        },
-        "2220949": {
-          "stance": "none",
-          "sources": []
-        },
-        "2199174": {
-          "stance": "none",
-          "sources": []
-        },
-        "2219438": {
-          "stance": "none",
-          "sources": []
         },
         "1046237": {
           "stance": "for",
@@ -2341,50 +1810,16 @@
           ],
           "note": "נוסח הסעיף מצוטט מניתוח המכון הישראלי לדמוקרטיה; נאום פרוש בישיבה הרצופה של 13–16.7.2026, אחרי אישור החוק"
         },
-        "2229723": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Committees/25_ptv_9816602.doc",
-              "quote": "אין שום ספק שמי שמנהל את התיק כולו צריך להיות בעל הסמכות גם בדבר הזה.",
-              "speaker": "יעקב אשר",
-              "date": "2025-11-03",
-              "kind": "speech"
-            }
-          ],
-          "note": "בדיון בוועדת החוקה על הצעת החוק; אשר הוסיף שצריך להביא אותה למליאה מהר"
-        },
         "2203631": {
           "stance": "none",
           "sources": [],
           "note": "המקורות מדברים על צמצום סעיף הנכד, לא על ביטולו."
-        },
-        "2202588": {
-          "stance": "none",
-          "sources": [],
-          "note": "הצהרה כללית מ-2021, לא על הצעת החוק."
         },
         "2230039": {
           "stance": "none",
           "sources": []
         },
         "2232189": {
-          "stance": "none",
-          "sources": []
-        },
-        "2239060": {
-          "stance": "none",
-          "sources": []
-        },
-        "2233991": {
-          "stance": "none",
-          "sources": []
-        },
-        "2236458": {
-          "stance": "none",
-          "sources": []
-        },
-        "2213395": {
           "stance": "none",
           "sources": []
         },
@@ -2534,10 +1969,6 @@
           "stance": "none",
           "sources": []
         },
-        "1046468": {
-          "stance": "none",
-          "sources": []
-        },
         "2199298": {
           "stance": "none",
           "sources": []
@@ -2669,41 +2100,11 @@
           "sources": [],
           "note": "דרעי הצהיר על תמיכה בכל עסקת חטופים שתובא לממשלה (סרוגים, 2024), אך לא נמצאה עמדה על חוק המחייב את הממשלה"
         },
-        "2195706": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/law/25_lst_1335978.docx",
-              "quote": "יוזמים: ... משה אבוטבול יואב בן צור יעקב מרגי מיכאל מלכיאלי ... ינון אזולאי יוסף טייב (רשימת יוזמי ההצעה)",
-              "speaker": "ינון אזולאי, יוסף טייב, מיכאל מלכיאלי, משה אבוטבול, יואב בן צור",
-              "date": "2022-12",
-              "kind": "sponsor"
-            }
-          ],
-          "note": "חברי ש\"ס היו בין יוזמי הצעת החוק (פ/69/25); תאריך ההגשה משוער"
-        },
-        "2199293": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_1653538.doc",
-              "quote": "אני מבקש מכולם לדחות את ההסתייגויות ולהצביע בעד החוק.",
-              "speaker": "ינון אזולאי",
-              "date": "2023-01-24",
-              "kind": "speech"
-            }
-          ],
-          "note": "אזולאי סיכם את הדיון על החוק במליאה בשם הוועדה"
-        },
         "2215077": {
           "stance": "none",
           "sources": []
         },
         "2220910": {
-          "stance": "none",
-          "sources": []
-        },
-        "2197937": {
           "stance": "none",
           "sources": []
         },
@@ -2719,18 +2120,6 @@
             }
           ],
           "note": "ינון אזולאי בין יוזמי ההצעה (פ/2560/25); תאריך ההגשה משוער"
-        },
-        "2220949": {
-          "stance": "none",
-          "sources": []
-        },
-        "2199174": {
-          "stance": "none",
-          "sources": []
-        },
-        "2219438": {
-          "stance": "none",
-          "sources": []
         },
         "1046237": {
           "stance": "for",
@@ -2752,10 +2141,6 @@
           ],
           "note": "מלכיאלי הוביל את החוק; נאומו בישיבת המליאה הרצופה של 13–16.7.2026"
         },
-        "2229723": {
-          "stance": "none",
-          "sources": []
-        },
         "2203631": {
           "stance": "for",
           "sources": [
@@ -2769,31 +2154,11 @@
           ],
           "note": "מלכיאלי השיב בשם הממשלה שהתנגדה מטעמים קואליציוניים, אך אמר שההצעה \"הייתה צריכה להגיע לפני עשרות שנים\" ושהוא אישית יצביע בעד"
         },
-        "2202588": {
-          "stance": "none",
-          "sources": []
-        },
         "2230039": {
           "stance": "none",
           "sources": []
         },
         "2232189": {
-          "stance": "none",
-          "sources": []
-        },
-        "2239060": {
-          "stance": "none",
-          "sources": []
-        },
-        "2233991": {
-          "stance": "none",
-          "sources": []
-        },
-        "2236458": {
-          "stance": "none",
-          "sources": []
-        },
-        "2213395": {
           "stance": "none",
           "sources": []
         },
@@ -2862,10 +2227,6 @@
     "yashar": {
       "positions": {
         "1042100": {
-          "stance": "none",
-          "sources": []
-        },
-        "1046468": {
           "stance": "none",
           "sources": []
         },
@@ -3051,23 +2412,6 @@
           "stance": "none",
           "sources": []
         },
-        "2195706": {
-          "stance": "against",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_2069511.doc",
-              "quote": "לסיכום, אני חושב שהגשת החוק היא שגיאה.",
-              "speaker": "גדי איזנקוט",
-              "date": "2023-03-21",
-              "kind": "speech"
-            }
-          ],
-          "note": "נאום במליאה ב-2023, כח\"כ המחנה הממלכתי, בדיון על ביטול חוק ההתנתקות בצפון השומרון"
-        },
-        "2199293": {
-          "stance": "none",
-          "sources": []
-        },
         "2215077": {
           "stance": "none",
           "sources": []
@@ -3076,35 +2420,10 @@
           "stance": "none",
           "sources": []
         },
-        "2197937": {
-          "stance": "none",
-          "sources": []
-        },
         "2201424": {
           "stance": "none",
           "sources": [],
           "note": "אמירה אגבית בדיון על חוק אחר."
-        },
-        "2220949": {
-          "stance": "none",
-          "sources": []
-        },
-        "2199174": {
-          "stance": "none",
-          "sources": []
-        },
-        "2219438": {
-          "stance": "against",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_5802973.doc",
-              "quote": "גם פה מדובר בהצעת חוק ללא שום עבודת הכנה מקצועית, ממשלתית, אלא רק על בסיס איזשהו ויכוח או רצון לנקמה בוועדה לבחירת שופטים",
-              "speaker": "אורית פרקש הכהן",
-              "date": "2025-03-04",
-              "kind": "speech"
-            }
-          ],
-          "note": "נאום במליאה בדיון על הצעת החוק לשינוי בחירת נציב תלונות הציבור על שופטים, כח\"כ המחנה הממלכתי"
         },
         "1046237": {
           "stance": "against",
@@ -3126,15 +2445,7 @@
           ],
           "note": "נאומים במליאה בישיבת אישור החוק; שטרן נאם כח\"כ יש עתיד"
         },
-        "2229723": {
-          "stance": "none",
-          "sources": []
-        },
         "2203631": {
-          "stance": "none",
-          "sources": []
-        },
-        "2202588": {
           "stance": "none",
           "sources": []
         },
@@ -3143,47 +2454,6 @@
           "sources": []
         },
         "2232189": {
-          "stance": "none",
-          "sources": []
-        },
-        "2239060": {
-          "stance": "mixed",
-          "sources": [
-            {
-              "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2239060",
-              "quote": "הצעת חוק הכרזה על קטאר כמדינת אויב, התשפ\"ו-2026 (שם הצעת החוק)",
-              "speaker": "אלעזר שטרן",
-              "date": "2026-01-07",
-              "kind": "sponsor"
-            },
-            {
-              "url": "https://www.walla.co.il/news/politics/3858502",
-              "quote": "לעצם העניין, קטאר לא מוגדרת מדינת אויב. היא עושה פעילות שלילית נגד מדינת ישראל",
-              "speaker": "גדי איזנקוט",
-              "date": "2026-07",
-              "kind": "statement"
-            }
-          ],
-          "note": "שטרן חתום על ההצעה כח\"כ יש עתיד; איזנקוט נמנע מלהתחייב להכריז על קטאר כמדינת אויב (לפי וואלה)"
-        },
-        "2233991": {
-          "stance": "none",
-          "sources": []
-        },
-        "2236458": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2236458",
-              "quote": "הצעת חוק קרן קיימת לישראל (תיקון - מעבר לחברה ממשלתית), התשפ\"ו-2025 (שם הצעת החוק)",
-              "speaker": "אלעזר שטרן",
-              "date": "2025-11-05",
-              "kind": "sponsor"
-            }
-          ],
-          "note": "שטרן (מקום 12 ברשימה) חתום על ההצעה כח\"כ יש עתיד; לא נמצאה עמדה של איזנקוט"
-        },
-        "2213395": {
           "stance": "none",
           "sources": []
         },
@@ -3261,10 +2531,6 @@
             }
           ],
           "note": "דיווח יחיד (JFeed) על \"חוק התקשורת\"; לא נמצא מקור נוסף"
-        },
-        "1046468": {
-          "stance": "none",
-          "sources": []
         },
         "2168881": {
           "stance": "against",
@@ -3479,14 +2745,6 @@
           "stance": "none",
           "sources": []
         },
-        "2195706": {
-          "stance": "none",
-          "sources": []
-        },
-        "2199293": {
-          "stance": "none",
-          "sources": []
-        },
         "2215077": {
           "stance": "none",
           "sources": []
@@ -3504,32 +2762,7 @@
           ],
           "note": "בן ברק תמך בהארכה תוך תקיפת הקואליציה על חוק הגיוס; נאמר כח\"כ יש עתיד"
         },
-        "2197937": {
-          "stance": "against",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_13496008.doc",
-              "quote": "החוק הזה הוא למעשה השתלטות פוליטית במסווה של תיקון.",
-              "speaker": "איתן גינזבורג",
-              "date": "2026-06-11",
-              "kind": "speech"
-            }
-          ],
-          "note": "נאום במליאה כח\"כ כחול לבן – המחנה הממלכתי"
-        },
         "2201424": {
-          "stance": "none",
-          "sources": []
-        },
-        "2220949": {
-          "stance": "none",
-          "sources": []
-        },
-        "2199174": {
-          "stance": "none",
-          "sources": []
-        },
-        "2219438": {
           "stance": "none",
           "sources": []
         },
@@ -3546,15 +2779,7 @@
           ],
           "note": "נאום במליאה בדיון על החוק"
         },
-        "2229723": {
-          "stance": "none",
-          "sources": []
-        },
         "2203631": {
-          "stance": "none",
-          "sources": []
-        },
-        "2202588": {
           "stance": "none",
           "sources": []
         },
@@ -3565,70 +2790,6 @@
         "2232189": {
           "stance": "none",
           "sources": []
-        },
-        "2239060": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_12119813.doc",
-              "quote": "אני קורא לכנסת ישראל להצביע בעד הצעת החוק המגדירה את קטר כמדינת אויב.",
-              "speaker": "יאיר לפיד",
-              "date": "2026-03-25",
-              "kind": "speech"
-            },
-            {
-              "url": "https://www.walla.co.il/news/politics/3856883",
-              "quote": "קטאר היא מדינת אויב, ומנהיגיה רוצים לחסל את ישראל",
-              "speaker": "נפתלי בנט",
-              "date": "2026-07-27",
-              "kind": "statement"
-            },
-            {
-              "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2239060",
-              "quote": "הצעת חוק הכרזה על קטאר כמדינת אויב, התשפ\"ו-2026 (שם הצעת החוק)",
-              "speaker": "יאיר לפיד, מירב כהן, מירב בן ארי, רם בן ברק, נאור שירי",
-              "date": "2026-01-07",
-              "kind": "sponsor"
-            }
-          ],
-          "note": "לפיד יזם והציג את ההצעה; בנט התחייב להכריז על קטאר כמדינת אויב"
-        },
-        "2233991": {
-          "stance": "none",
-          "sources": []
-        },
-        "2236458": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_10632811.doc",
-              "quote": "הדיל בקק\"ל ובמוסדות הלאומיים הוא דיל מושחת, מקולקל, לא יעיל ומיותר.",
-              "speaker": "יאיר לפיד",
-              "date": "2026-01-07",
-              "kind": "speech"
-            },
-            {
-              "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2236458",
-              "quote": "הצעת חוק קרן קיימת לישראל (תיקון - מעבר לחברה ממשלתית), התשפ\"ו-2025 (שם הצעת החוק)",
-              "speaker": "יאיר לפיד, מירב כהן, מירב בן ארי, רם בן ברק, נאור שירי",
-              "date": "2025-11-05",
-              "kind": "sponsor"
-            }
-          ],
-          "note": "לפיד יזם והציג את ההצעה במליאה"
-        },
-        "2213395": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2213395",
-              "quote": "הצעת חוק הממשלה (תיקון - ביצוע בדיקת פוליגרף לחברי ועדת השרים לענייני ביטחון לאומי), התשפ\"ד-2024 (שם הצעת החוק)",
-              "speaker": "יאיר לפיד",
-              "date": "2024-01-07",
-              "kind": "sponsor"
-            }
-          ],
-          "note": "לפיד בין חותמי ההצעה (יזם ראשי: רון כץ, יש עתיד)"
         },
         "2200328": {
           "stance": "for",
@@ -3703,10 +2864,6 @@
     "reservists": {
       "positions": {
         "1042100": {
-          "stance": "none",
-          "sources": []
-        },
-        "1046468": {
           "stance": "none",
           "sources": []
         },
@@ -3883,14 +3040,6 @@
           "stance": "none",
           "sources": []
         },
-        "2195706": {
-          "stance": "none",
-          "sources": []
-        },
-        "2199293": {
-          "stance": "none",
-          "sources": []
-        },
         "2215077": {
           "stance": "none",
           "sources": []
@@ -3899,23 +3048,7 @@
           "stance": "none",
           "sources": []
         },
-        "2197937": {
-          "stance": "none",
-          "sources": []
-        },
         "2201424": {
-          "stance": "none",
-          "sources": []
-        },
-        "2220949": {
-          "stance": "none",
-          "sources": []
-        },
-        "2199174": {
-          "stance": "none",
-          "sources": []
-        },
-        "2219438": {
           "stance": "none",
           "sources": []
         },
@@ -3923,15 +3056,7 @@
           "stance": "none",
           "sources": []
         },
-        "2229723": {
-          "stance": "none",
-          "sources": []
-        },
         "2203631": {
-          "stance": "none",
-          "sources": []
-        },
-        "2202588": {
           "stance": "none",
           "sources": []
         },
@@ -3949,22 +3074,6 @@
           "note": "המצע מונה גם \"מניעת הזכות לבחור ולהיבחר\" בין הסנקציות על משתמטים"
         },
         "2232189": {
-          "stance": "none",
-          "sources": []
-        },
-        "2239060": {
-          "stance": "none",
-          "sources": []
-        },
-        "2233991": {
-          "stance": "none",
-          "sources": []
-        },
-        "2236458": {
-          "stance": "none",
-          "sources": []
-        },
-        "2213395": {
           "stance": "none",
           "sources": []
         },
@@ -4032,10 +3141,6 @@
     "democrats": {
       "positions": {
         "1042100": {
-          "stance": "none",
-          "sources": []
-        },
-        "1046468": {
           "stance": "none",
           "sources": []
         },
@@ -4211,32 +3316,6 @@
           "stance": "none",
           "sources": []
         },
-        "2195706": {
-          "stance": "against",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_2069511.doc",
-              "quote": "הצעת החוק הזאת תביא להקמת מאחזים בלתי חוקיים על חורבות שא-נור, כדים וגן נר.",
-              "speaker": "גלעד קריב",
-              "date": "2023-03-21",
-              "kind": "speech"
-            }
-          ],
-          "note": "נאום במליאה לפני ההצבעה (קריב, אז במפלגת העבודה)"
-        },
-        "2199293": {
-          "stance": "against",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_1653538.doc",
-              "quote": "הערב הזה, כפי שעשינו בקריאה הראשונה, בכוונתנו להתנגד להצעה לאשר את תקנות יו\"ש.",
-              "speaker": "גלעד קריב",
-              "date": "2023-01-24",
-              "kind": "speech"
-            }
-          ],
-          "note": "קריב (העבודה, 2023) ציין שבכנסת הקודמת תמכו בהארכה, והסביר את ההתנגדות בהרכב הממשלה החדשה"
-        },
         "2215077": {
           "stance": "none",
           "sources": [],
@@ -4255,49 +3334,9 @@
           ],
           "note": "ביקר את ההארכה בשבוע שבו עבר פטור למשתמטים"
         },
-        "2197937": {
-          "stance": "against",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_13496008.doc",
-              "quote": "זהו חוק שמכפיף את מח\"ש לדרג הפוליטי.",
-              "speaker": "גלעד קריב",
-              "date": "2026-06-11",
-              "kind": "speech"
-            }
-          ],
-          "note": "קריב אמר שמח\"ש זקוקה לרפורמה, אבל לא זו"
-        },
         "2201424": {
           "stance": "none",
           "sources": []
-        },
-        "2220949": {
-          "stance": "none",
-          "sources": []
-        },
-        "2199174": {
-          "stance": "none",
-          "sources": []
-        },
-        "2219438": {
-          "stance": "against",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_5802973.doc",
-              "quote": "הצעת החוק הזאת היא הצעה מסוכנת וחסרת תקדים שעוברת מתחת לאף של כולנו",
-              "speaker": "נעמה לזימי",
-              "date": "2025-03-04",
-              "kind": "speech"
-            },
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_5802973.doc",
-              "quote": "חוק של השתלטות פוליטית על נציבות התלונות.",
-              "speaker": "גלעד קריב",
-              "date": "2025-03-04",
-              "kind": "speech"
-            }
-          ]
         },
         "1046237": {
           "stance": "against",
@@ -4318,31 +3357,7 @@
             }
           ]
         },
-        "2229723": {
-          "stance": "against",
-          "sources": [
-            {
-              "url": "https://production.oknesset.org/pipelines/data/committees/download_document_committee_session/files/23/7/4/7470832.DOC",
-              "quote": "ועכשיו מנסים לנצל את ההתפתחות הזאת בפסיקה, טובה או רעה, כדי להחזיר אותנו 56 שנים אחורה",
-              "speaker": "גלעד קריב",
-              "date": "2025-05-07",
-              "kind": "speech"
-            },
-            {
-              "url": "https://production.oknesset.org/pipelines/data/committees/download_document_committee_session/files/23/7/4/7470832.DOC",
-              "quote": "במקום לטפל בהגינות אתה אומר שזה החוק שיסחט נשים כדי לשחרר אותן.",
-              "speaker": "נעמה לזימי",
-              "date": "2025-05-07",
-              "kind": "speech"
-            }
-          ],
-          "note": "דברים בדיון בוועדת החוקה על הצעת החוק (תיקון מס' 6, סמכות כריכת מזונות ילדים)"
-        },
         "2203631": {
-          "stance": "none",
-          "sources": []
-        },
-        "2202588": {
           "stance": "none",
           "sources": []
         },
@@ -4351,22 +3366,6 @@
           "sources": []
         },
         "2232189": {
-          "stance": "none",
-          "sources": []
-        },
-        "2239060": {
-          "stance": "none",
-          "sources": []
-        },
-        "2233991": {
-          "stance": "none",
-          "sources": []
-        },
-        "2236458": {
-          "stance": "none",
-          "sources": []
-        },
-        "2213395": {
           "stance": "none",
           "sources": []
         },
@@ -4444,10 +3443,6 @@
     "joint": {
       "positions": {
         "1042100": {
-          "stance": "none",
-          "sources": []
-        },
-        "1046468": {
           "stance": "none",
           "sources": []
         },
@@ -4589,30 +3584,6 @@
           "stance": "none",
           "sources": []
         },
-        "2195706": {
-          "stance": "none",
-          "sources": []
-        },
-        "2199293": {
-          "stance": "against",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_1653538.doc",
-              "quote": "התנגדנו לו אז ואנחנו מתנגדים לו בתוקף גם היום.",
-              "speaker": "אחמד טיבי",
-              "date": "2023-01-24",
-              "kind": "speech"
-            },
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_1653538.doc",
-              "quote": "החוק שלפנינו נועד להבטיח שבני הגזע העליון במדינה הכובשת ובעיקר המתנחבלים הפושעים, יהיו נפרדים",
-              "speaker": "עופר כסיף",
-              "date": "2023-01-24",
-              "kind": "speech"
-            }
-          ],
-          "note": "טיבי וכסיף נאמו כחברי חד\"ש-תע\"ל"
-        },
         "2215077": {
           "stance": "against",
           "sources": [
@@ -4629,32 +3600,7 @@
           "stance": "none",
           "sources": []
         },
-        "2197937": {
-          "stance": "against",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_13496008.doc",
-              "quote": "חוק זה הוא עוד נדבך בהפיכה המשטרית, שמטרתה ריכוז כוח מוחלט בידי הממשלה בכלל ובידי ראשה העבריין בפרט. התנגדו.",
-              "speaker": "עופר כסיף",
-              "date": "2026-06-11",
-              "kind": "speech"
-            }
-          ],
-          "note": "כסיף מתח גם ביקורת חריפה על מח\"ש עצמה"
-        },
         "2201424": {
-          "stance": "none",
-          "sources": []
-        },
-        "2220949": {
-          "stance": "none",
-          "sources": []
-        },
-        "2199174": {
-          "stance": "none",
-          "sources": []
-        },
-        "2219438": {
           "stance": "none",
           "sources": []
         },
@@ -4662,15 +3608,7 @@
           "stance": "none",
           "sources": []
         },
-        "2229723": {
-          "stance": "none",
-          "sources": []
-        },
         "2203631": {
-          "stance": "none",
-          "sources": []
-        },
-        "2202588": {
           "stance": "none",
           "sources": []
         },
@@ -4695,32 +3633,6 @@
           "note": "טיבי הזכיר את ההצעה בנאומו על חוק-יסוד: שוויון באותו יום, כדוגמה לחוק פוגעני"
         },
         "2232189": {
-          "stance": "none",
-          "sources": []
-        },
-        "2239060": {
-          "stance": "against",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_12119813.doc",
-              "quote": "אתם הצבעתם איתנו על חוק שאומר שקטר היא מדינת טרור. אני הצבעתי לא",
-              "speaker": "אחמד טיבי",
-              "date": "2026-03-25",
-              "kind": "speech"
-            }
-          ],
-          "note": "אמירה אגבית במליאה על הצבעתו שלו נגד ההצעה באותו יום"
-        },
-        "2233991": {
-          "stance": "none",
-          "sources": [],
-          "note": "המצע קורא להסרת המצור, בלי התייחסות להצעת החוק."
-        },
-        "2236458": {
-          "stance": "none",
-          "sources": []
-        },
-        "2213395": {
           "stance": "none",
           "sources": []
         },
@@ -4782,10 +3694,6 @@
     "raam": {
       "positions": {
         "1042100": {
-          "stance": "none",
-          "sources": []
-        },
-        "1046468": {
           "stance": "none",
           "sources": []
         },
@@ -4931,23 +3839,6 @@
           "stance": "none",
           "sources": []
         },
-        "2195706": {
-          "stance": "none",
-          "sources": []
-        },
-        "2199293": {
-          "stance": "against",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_1653538.doc",
-              "quote": "כמובן, אנחנו נצביע נגד החוק הזה ונגד הארכת התקנות.",
-              "speaker": "יאסר חוג'יראת",
-              "date": "2023-01-24",
-              "kind": "speech"
-            }
-          ],
-          "note": "מנסור עבאס אמר באותו דיון שכעת, מחוץ למשמעת קואליציונית, הם יכולים לבטא את עמדתם בהצבעה"
-        },
         "2215077": {
           "stance": "against",
           "sources": [
@@ -4971,38 +3862,7 @@
           "stance": "none",
           "sources": []
         },
-        "2197937": {
-          "stance": "against",
-          "sources": [
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_13496008.doc",
-              "quote": "אומנם אנחנו מתנגדים להצעת החוק הזאת, אבל יש לנו ביקורת עצומה על המחלקה לחקירות שוטרים",
-              "speaker": "ואליד אלהואשלה",
-              "date": "2026-06-11",
-              "kind": "speech"
-            },
-            {
-              "url": "https://fs.knesset.gov.il/25/Plenum/25_ptm_13496008.doc",
-              "quote": "אישית, אין לי אמון במקום השני שרוצים להעביר",
-              "speaker": "אימאן ח'טיב יאסין",
-              "date": "2026-06-11",
-              "kind": "speech"
-            }
-          ]
-        },
         "2201424": {
-          "stance": "none",
-          "sources": []
-        },
-        "2220949": {
-          "stance": "none",
-          "sources": []
-        },
-        "2199174": {
-          "stance": "none",
-          "sources": []
-        },
-        "2219438": {
           "stance": "none",
           "sources": []
         },
@@ -5010,15 +3870,7 @@
           "stance": "none",
           "sources": []
         },
-        "2229723": {
-          "stance": "none",
-          "sources": []
-        },
         "2203631": {
-          "stance": "none",
-          "sources": []
-        },
-        "2202588": {
           "stance": "none",
           "sources": []
         },
@@ -5027,40 +3879,6 @@
           "sources": []
         },
         "2232189": {
-          "stance": "none",
-          "sources": []
-        },
-        "2239060": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2239060",
-              "quote": "בין יוזמי הצעת החוק (פרפרזה)",
-              "speaker": "יואב סגלוביץ'",
-              "date": "2026-01-07",
-              "kind": "sponsor"
-            }
-          ],
-          "note": "סגלוביץ' חתום על ההצעה (2026) כח\"כ יש עתיד, לפני שהצטרף לרע\"ם; לא נמצאה הצהרה של רע\"ם עצמה"
-        },
-        "2233991": {
-          "stance": "none",
-          "sources": []
-        },
-        "2236458": {
-          "stance": "for",
-          "sources": [
-            {
-              "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2236458",
-              "quote": "בין יוזמי הצעת החוק (פרפרזה)",
-              "speaker": "יואב סגלוביץ'",
-              "date": "2025-11-05",
-              "kind": "sponsor"
-            }
-          ],
-          "note": "סגלוביץ' חתום על ההצעה (2025) כח\"כ יש עתיד, לפני שהצטרף לרע\"ם; לא נמצאה הצהרה של רע\"ם עצמה"
-        },
-        "2213395": {
           "stance": "none",
           "sources": []
         },
@@ -5150,10 +3968,6 @@
     "amcha": {
       "positions": {
         "1042100": {
-          "stance": "none",
-          "sources": []
-        },
-        "1046468": {
           "stance": "none",
           "sources": []
         },
@@ -5299,14 +4113,6 @@
           "stance": "none",
           "sources": []
         },
-        "2195706": {
-          "stance": "none",
-          "sources": []
-        },
-        "2199293": {
-          "stance": "none",
-          "sources": []
-        },
         "2215077": {
           "stance": "none",
           "sources": []
@@ -5315,23 +4121,7 @@
           "stance": "none",
           "sources": []
         },
-        "2197937": {
-          "stance": "none",
-          "sources": []
-        },
         "2201424": {
-          "stance": "none",
-          "sources": []
-        },
-        "2220949": {
-          "stance": "none",
-          "sources": []
-        },
-        "2199174": {
-          "stance": "none",
-          "sources": []
-        },
-        "2219438": {
           "stance": "none",
           "sources": []
         },
@@ -5339,15 +4129,7 @@
           "stance": "none",
           "sources": []
         },
-        "2229723": {
-          "stance": "none",
-          "sources": []
-        },
         "2203631": {
-          "stance": "none",
-          "sources": []
-        },
-        "2202588": {
           "stance": "none",
           "sources": []
         },
@@ -5356,22 +4138,6 @@
           "sources": []
         },
         "2232189": {
-          "stance": "none",
-          "sources": []
-        },
-        "2239060": {
-          "stance": "none",
-          "sources": []
-        },
-        "2233991": {
-          "stance": "none",
-          "sources": []
-        },
-        "2236458": {
-          "stance": "none",
-          "sources": []
-        },
-        "2213395": {
           "stance": "none",
           "sources": []
         },
