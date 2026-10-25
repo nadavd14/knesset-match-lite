@@ -3,7 +3,7 @@ import { scoreFactions, scoreLists, nextBatch, breakdown, scoreDeclared, declare
 const CATEGORIES = ["ביטחון", "משפט ושלטון", "כלכלה", "חברה ורווחה", "דת ומדינה", "חינוך ותרבות", "פנים וסביבה"];
 const BATCH = 10;
 const MIN_DECLARED = 3; // declared-positions score needs statements on at least this many answered laws
-const KEY = "km.v1";
+const KEY = "km-lite.v1"; // own key: shares the nadavd14.github.io origin with the full site
 const app = document.getElementById("app");
 
 let data;
